@@ -4,12 +4,12 @@ body {
   
 h1 {
 	
-	style=*texte-align: center
+	text-align: center;
 }
 
 p{
  
-  texte-align: center;
+  text-align: center;
 
 }
 
@@ -21,4 +21,14 @@ p{
 
 em strong {
 	color: #FF0000;
+}
+ 
+ .itens{  
+        
+     font-style: italic 
+}
+
+.beneficios{
+
+	background: #fffff;
 }
