@@ -6,16 +6,16 @@ body {
 	width: 100%
 
 }
-  principal{
+.principal{
   	background: #cccccc;
     padding: 30px;
   }   
    
- titulo-centralizado{
+.titulo-centralizado{
  	padding-left:20px ;
  }
 
-titulo-centralizado{
+.titulo-centralizado{
 	text-align: center
 }
 
@@ -25,7 +25,7 @@ p{
 
 }
 
-*missao{
+missao {
 
     font-size:20px
 }
@@ -35,26 +35,24 @@ em strong {
 	color: red;
 }
  
- .itens{  
+.itens{  
         
      font-style: italic 
 }
 
-.beneficios{  #FFFFFF;
+.beneficios {  
      background: #FFFFFF;
      padding: 20px;
-
-
 }
 
-Ul{
+ul{
     
     display: inline-block;
     vertical-align: top;
     width: 20%;
-
+    margin-right: 15%;
 }
 
-imagembeneficios{
+.imagembeneficios{
 	width: 50%;
 }
